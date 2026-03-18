@@ -14,10 +14,6 @@ __pycache__/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# ── Data Files ────────────────────────────────────────────
-data/raw/
-data/processed/
-
 # ── Models ────────────────────────────────────────────────
 models/*.pkl
 
